@@ -1,7 +1,7 @@
 # Hello, I'm Life!
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity enthusiast with 3+ years of Mechanical experience currently transitioning into cybersecurity professionaly. I have profound interest in everything tech, cyber, intelligence,business and Leadership. I am a jack of all trades and a master of some, particulary curiosity.
+I am a Cybersecurity enthusiast with 3+ years of Mechanical experience currently transitioning into cybersecurity professionally. I have profound interest in everything tech, cyber, intelligence,business and Leadership. I am a jack of all trades and a master of some, particulary curiosity.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
